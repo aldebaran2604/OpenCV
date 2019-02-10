@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9aa591c6-e9bc-4112-b308-6ad70498c0d8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ISSUE6.py</StartupFile>
+    <StartupFile>ISSUE7.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -37,6 +37,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ISSUE6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ISSUE7.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonOpenCV.py" />
